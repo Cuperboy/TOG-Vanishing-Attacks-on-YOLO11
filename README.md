@@ -1,7 +1,9 @@
 # TOG-Vanishing-Attacks-on-YOLO11
 Задание посвящено атаке нейронной сети, решающей задачу детекции (обнаружения) объектов на изображениях.
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/Cuperboy/TOG-Vanishing-Attacks-on-YOLO11/blob/main/outputs/yolo_people.gif)  |  ![](https://github.com/Cuperboy/TOG-Vanishing-Attacks-on-YOLO11/blob/main/outputs/attacked_people.gif)
 
-![grab-landing-page](https://github.com/Cuperboy/TOG-Vanishing-Attacks-on-YOLO11/blob/main/outputs/yolo_people.gif) ![grab-landing-page](https://github.com/Cuperboy/TOG-Vanishing-Attacks-on-YOLO11/blob/main/outputs/attacked_people.gif)
 
 
 Две недели назад вышла новая версия самой популярной сети для детекции — YOLOv11. Именно была взята в качестве жертвы.
