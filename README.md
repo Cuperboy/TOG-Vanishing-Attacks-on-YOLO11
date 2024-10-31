@@ -1,7 +1,7 @@
 # TOG-Vanishing-Attacks-on-YOLO11
 Задание посвящено атаке нейронной сети, решающей задачу детекции (обнаружения) объектов на изображениях.
 
-![](https://github.com/Cuperboy/TOG-Vanishing-Attacks-on-YOLO11/outputs/yolo_people.gif)
+![](https://github.com/Cuperboy/TOG-Vanishing-Attacks-on-YOLO11/blob/main/outputs/yolo_people.gif)
 
 
 Две недели назад вышла новая версия самой популярной сети для детекции — YOLOv11. Именно была взята в качестве жертвы.
