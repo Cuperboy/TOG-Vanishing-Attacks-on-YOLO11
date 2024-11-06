@@ -5,7 +5,7 @@ from ultralytics.models import yolo
 from ultralytics.nn.tasks import ClassificationModel, DetectionModel, OBBModel, PoseModel, SegmentationModel, WorldModel
 from ultralytics.utils import ROOT, yaml_load
 from ultralytics import YOLO
-from utills import tog_vanishing
+from tog_vanishing import tog_vanishing
 import torch
 import numpy as np
 
